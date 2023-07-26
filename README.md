@@ -6,7 +6,7 @@ Members:
 - Rohan Masamsetty
 - Sandeep Nair\
 \
-We are from a small township in New Jersey called Robbinsville and our team is super excited to be competing in this year's WRO Future Engineers Competition. Rohan is an upcoming senior and Sid is an upcoming sophomore who both have passions for Robotics and AI. Sandeep is our coach who is the backbone of communication for the team; he allows for bright ideas and 
+We are from a small township in New Jersey called Robbinsville and our team is super excited to be competing in this year's WRO Future Engineers Competition. Rohan is an upcoming senior and Sid is an upcoming sophomore with passions for Robotics and AI. Sandeep is our coach who is the backbone of communication for the team; he comes up with bright ideas and is always keeping us in check and pushing us to meet deadlines. These same people competed in Robotics FLL for Team Minotaur in 2019 and ultimately ended up making states as bring 1 of the 5 teams out of 30 to qualify in the specific district. 
 
 ## Content
 
