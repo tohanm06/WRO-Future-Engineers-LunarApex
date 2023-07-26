@@ -1,6 +1,6 @@
 ## Introduction
-Team Name: LunarApex
-\nMembers:
+Team Name: LunarApex\
+Members:
 - Sidharth Sandeep
 - Rohan Masamsetty
 - Sandeep Nair
