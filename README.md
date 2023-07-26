@@ -4,7 +4,9 @@ Team Name: LunarApex\
 Members:
 - Sidharth Sandeep
 - Rohan Masamsetty
-- Sandeep Nair
+- Sandeep Nair\
+\
+We are from a small township in New Jersey called Robbinsville and our team is super excited to be competing in this year's WRO Future Engineers Competition. Rohan is an upcoming senior and Sid is an upcoming sophomore who both have passions for Robotics and AI. Sandeep is our coach who is the backbone of communication for the team; he allows for bright ideas and 
 
 ## Content
 
