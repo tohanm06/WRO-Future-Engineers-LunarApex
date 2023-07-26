@@ -1,7 +1,9 @@
-Engineering materials
-====
-
-This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
+## Introduction
+Team Name: LunarApex
+Members:
+- Sidharth Sandeep
+- Rohan Masamsetty
+- Sandeep Nair
 
 ## Content
 
@@ -13,10 +15,8 @@ This repository contains engineering materials of a self-driven vehicle's model 
 * `models` is for the files for models used by 3D printers, laser cutting machines and CNC machines to produce the vehicle elements. If there is nothing to add to this location, the directory can be removed.
 * `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
 
-## Introduction
 
-Hello and welcome to the LunarApex Documentation Github!!
-Our team consists of 2 high schoolers and 1 lovely coach
+
 
 ## Judging sections:
 
