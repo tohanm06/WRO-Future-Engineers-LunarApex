@@ -6,7 +6,9 @@ Members:
 - Rohan Masamsetty
 - Sandeep Nair\
 \
-We are from a small township in New Jersey called Robbinsville and our team is super excited to be competing in this year's WRO Future Engineers Competition. Rohan is an upcoming senior and Sid is an upcoming sophomore with passions for Robotics and AI. Sandeep is our coach who is the backbone of communication for the team; he comes up with bright ideas and is always keeping us in check and pushing us to meet deadlines. These same people competed in Robotics FLL for Team Minotaur in 2019 and ultimately ended up making states as bring 1 of the 5 teams out of 30 to qualify in the specific district. 
+We are from a small township in New Jersey called Robbinsville and our team is super excited to be competing in this year's WRO Future Engineers Competition. Rohan is an upcoming senior and Sid is an upcoming sophomore with passions for Robotics and AI. Sandeep is our coach who is the backbone of communication for the team; he comes up with bright ideas and is always keeping us in check and pushing us to meet deadlines. These same people competed in Robotics FLL for Team Minotaur in 2019 and ultimately ended up making states as bring 1 of the 5 teams out of 30 to qualify in the specific district.\
+\
+We faced several challenges during our time working on our car. As a team, we struggled to balance our time with school and other activities we had. We rarely met up and mostly had to work remotely due to time inconveniences. We faced several issues with our code that had us frustrated out of our minds. There was also a period of time when nothing progressed as were unsure if we were going to be able to make our car work. But we were able to cast our doubts away and push through the challenges that we encountered. Overall, we are really proud with the progress we made and hope to see our car shine on the big stages!
 
 ## Content
 
