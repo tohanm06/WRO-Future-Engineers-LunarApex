@@ -23,5 +23,5 @@ We are from a small township in New Jersey called Robbinsville and our team is s
 1. [Mobility Management](https://github.com/tohanm06/LunarApex-Documentation/wiki/Mobility-Management)
 2. [Power and Sense Management](https://github.com/tohanm06/LunarApex-Documentation/wiki/Power-and-Sense-Management)
 3. [Obstacle Management](https://github.com/tohanm06/LunarApex-Documentation/wiki/Obstacle-Management)
-4. [Vehicle Pictures](https://github.com/tohanm06/LunarApex-Documentation/tree/main/v-photos) [Team Pictures](https://github.com/tohanm06/LunarApex-Documentation/tree/main/t-photos)
+4. [Vehicle Pictures](https://github.com/tohanm06/LunarApex-Documentation/tree/main/v-photos) / [Team Pictures](https://github.com/tohanm06/LunarApex-Documentation/tree/main/t-photos)
 5. [Performance Videos](https://github.com/tohanm06/LunarApex-Documentation/wiki/Performance-Videos)
